@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+keras==2.15.0
+gradio==4.36.1
+numpy==1.26.4
+pillow==10.4.0
+Plantvillage dataset : https://drive.google.com/file/d/1Zp0B6NGa4Wnc3v-bfpTo-K00-1icIaaC/view?usp=share_link
