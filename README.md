@@ -10,3 +10,7 @@ Real-time leaf disease detection
 User-friendly interface for easy image upload
 Informative guidance on disease symptoms and treatments
 Powered by a deep learning CNN model for high accuracy
+Technologies Used:
+TensorFlow and Keras for model training and deployment
+Gradio for the interactive web application
+Python for backend logic and image processing
